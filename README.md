@@ -11,8 +11,10 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-![image alt]([image_url](https://github.com/gariraelack62/customer-trends-and-behavior-analysis/blob/c22e28f9f3a23060ab894208542d47838ff04056/docs/End%20to%20End%20Data%20Analytics%20Portfolio%20Project.drawio))
+---
+### Data Architecture
 
+![Data Architecture](docs/data_architecture.png)
 ---
 
 ### Project Workflow
