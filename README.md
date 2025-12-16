@@ -14,7 +14,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ---
 ### Data Architecture
 
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](https://github.com/gariraelack62/customer-trends-and-behavior-analysis/blob/25ccbf025869480b9c272ecf959294adbbf3caa8/docs/Architecture_Customer_Behavior.png)
 ---
 
 ### Project Workflow
